@@ -1,0 +1,176 @@
+Uri: https://9animetv.to/css/styles.min.css?v=0.1
+File Name: C:\Downloaded Web Sites\9animetv.to\css\styles.min.css
+Content Type: text/css
+
+Uri: https://9animetv.to/home
+File Name: C:\Downloaded Web Sites\9animetv.to\home.html
+Content Type: text/html
+
+Uri: https://9animetv.to/images/favicon.png
+File Name: C:\Downloaded Web Sites\9animetv.to\images\favicon.png
+Content Type: image/png
+
+Uri: https://9animetv.to/images/footer-icon.png
+File Name: C:\Downloaded Web Sites\9animetv.to\images\footer-icon.png
+Content Type: image/png
+
+Uri: https://9animetv.to/images/icon-forgot.png
+File Name: C:\Downloaded Web Sites\9animetv.to\images\icon-forgot.png
+Content Type: image/png
+
+Uri: https://9animetv.to/images/icon-login2.png
+File Name: C:\Downloaded Web Sites\9animetv.to\images\icon-login2.png
+Content Type: image/png
+
+Uri: https://9animetv.to/images/icon-register.png
+File Name: C:\Downloaded Web Sites\9animetv.to\images\icon-register.png
+Content Type: image/png
+
+Uri: https://9animetv.to/images/logo.png
+File Name: C:\Downloaded Web Sites\9animetv.to\images\logo.png
+Content Type: image/png
+
+Uri: https://9animetv.to/js/app.ob.min.js?v=0.2
+File Name: C:\Downloaded Web Sites\9animetv.to\js\app.ob.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js
+File Name: C:\Downloaded Web Sites\9animetv.to\ajax\libs\jquery\1.12.4\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js
+File Name: C:\Downloaded Web Sites\9animetv.to\ajax\libs\jqueryui\1.12.1\jquery-ui.min.js
+Content Type: application/javascript
+
+Uri: https://img.bunnyccdn.co/_r/1366x768/100/04/56/0456cafffaea918e8ea0d0ca74e2d71c/0456cafffaea918e8ea0d0ca74e2d71c.jpg
+File Name: C:\Downloaded Web Sites\9animetv.to\_r\1366x768\100\04\56\0456cafffaea918e8ea0d0ca74e2d71c\0456cafffaea918e8ea0d0ca74e2d71c.jpg
+Content Type: image/jpeg
+
+Uri: https://img.bunnyccdn.co/_r/1366x768/100/19/8d/198df4c5b38265cdf98239e024ad65ee/198df4c5b38265cdf98239e024ad65ee.jpg
+File Name: C:\Downloaded Web Sites\9animetv.to\_r\1366x768\100\19\8d\198df4c5b38265cdf98239e024ad65ee\198df4c5b38265cdf98239e024ad65ee.jpg
+Content Type: image/jpeg
+
+Uri: https://img.bunnyccdn.co/_r/1366x768/100/48/7c/487cdf864df7000b07afc10801ca330f/487cdf864df7000b07afc10801ca330f.jpg
+File Name: C:\Downloaded Web Sites\9animetv.to\_r\1366x768\100\48\7c\487cdf864df7000b07afc10801ca330f\487cdf864df7000b07afc10801ca330f.jpg
+Content Type: image/jpeg
+
+Uri: https://img.bunnyccdn.co/_r/1366x768/100/49/f9/49f9dfad171581c2de670fe02cd76ac6/49f9dfad171581c2de670fe02cd76ac6.jpg
+File Name: C:\Downloaded Web Sites\9animetv.to\_r\1366x768\100\49\f9\49f9dfad171581c2de670fe02cd76ac6\49f9dfad171581c2de670fe02cd76ac6.jpg
+Content Type: image/jpeg
+
+Uri: https://img.bunnyccdn.co/_r/1366x768/100/56/cc/56cca40be898cbecc462ea9987870942/56cca40be898cbecc462ea9987870942.jpg
+File Name: C:\Downloaded Web Sites\9animetv.to\_r\1366x768\100\56\cc\56cca40be898cbecc462ea9987870942\56cca40be898cbecc462ea9987870942.jpg
+Content Type: image/jpeg
+
+Uri: https://img.bunnyccdn.co/_r/1366x768/100/58/d0/58d0b99666b285d2c484fec5dfaa23f0/58d0b99666b285d2c484fec5dfaa23f0.jpg
+File Name: C:\Downloaded Web Sites\9animetv.to\_r\1366x768\100\58\d0\58d0b99666b285d2c484fec5dfaa23f0\58d0b99666b285d2c484fec5dfaa23f0.jpg
+Content Type: image/jpeg
+
+Uri: https://img.bunnyccdn.co/_r/1366x768/100/65/41/6541777008a96effd4832a1017fa5df4/6541777008a96effd4832a1017fa5df4.jpg
+File Name: C:\Downloaded Web Sites\9animetv.to\_r\1366x768\100\65\41\6541777008a96effd4832a1017fa5df4\6541777008a96effd4832a1017fa5df4.jpg
+Content Type: image/jpeg
+
+Uri: https://img.bunnyccdn.co/_r/1366x768/100/7c/d5/7cd514ee5521d04d45acfcdd0721f2f2/7cd514ee5521d04d45acfcdd0721f2f2.jpg
+File Name: C:\Downloaded Web Sites\9animetv.to\_r\1366x768\100\7c\d5\7cd514ee5521d04d45acfcdd0721f2f2\7cd514ee5521d04d45acfcdd0721f2f2.jpg
+Content Type: image/jpeg
+
+Uri: https://img.bunnyccdn.co/_r/1366x768/100/cc/31/cc31651a74da81ca64de19ff0b9432d2/cc31651a74da81ca64de19ff0b9432d2.jpg
+File Name: C:\Downloaded Web Sites\9animetv.to\_r\1366x768\100\cc\31\cc31651a74da81ca64de19ff0b9432d2\cc31651a74da81ca64de19ff0b9432d2.jpg
+Content Type: image/jpeg
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\9animetv.to\bootstrap\4.1.3\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://s7.addthis.com/js/300/addthis_widget.js
+File Name: C:\Downloaded Web Sites\9animetv.to\js\300\addthis_widget.js
+Content Type: text/javascript
+
+Uri: https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\9animetv.to\bootstrap\4.4.1\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/css/all.css
+File Name: C:\Downloaded Web Sites\9animetv.to\releases\v5.3.1\css\all.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\9animetv.to\releases\v5.3.1\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\9animetv.to\releases\v5.3.1\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\9animetv.to\releases\v5.3.1\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\9animetv.to\releases\v5.3.1\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\9animetv.to\releases\v5.3.1\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\9animetv.to\releases\v5.3.1\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\9animetv.to\releases\v5.3.1\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\9animetv.to\releases\v5.3.1\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\9animetv.to\releases\v5.3.1\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\9animetv.to\releases\v5.3.1\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\9animetv.to\releases\v5.3.1\webfonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\9animetv.to\releases\v5.3.1\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\9animetv.to\releases\v5.3.1\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\9animetv.to\releases\v5.3.1\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\9animetv.to\releases\v5.3.1\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\9animetv.to\releases\v5.3.1\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\9animetv.to\releases\v5.3.1\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\9animetv.to\releases\v5.3.1\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://www.google.com/recaptcha/api.js?render=6LcJeB8eAAAAAK9SJTPy75A2v4iIEOa-iNIpDzJM
+File Name: C:\Downloaded Web Sites\9animetv.to\recaptcha\api.js
+Content Type: text/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-259169563-1
+File Name: C:\Downloaded Web Sites\9animetv.to\gtag\js
+Content Type: application/javascript
+
